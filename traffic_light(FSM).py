@@ -1,5 +1,6 @@
 # Traffic Light Finite State Machine (FSM) Simulation
-# --- Task 4 (Interactive) ---
+# --- Task (Interactive) ---
+
 import time
 
 fsm = {
