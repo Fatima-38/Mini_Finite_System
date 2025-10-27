@@ -1,0 +1,3 @@
+🚦Traffic Light Finite State Machine (FSM) Simulation
+
+This Python script simulates a simple Traffic Light Finite State Machine (FSM) with three states — RED, GREEN, and YELLOW. Each state transitions to the next after a defined duration, mimicking the behavior of a real-world traffic light.Users can choose how many cycles to run and whether to include real-time delays. The simulation runs interactively in the terminal, displaying each state change and keeping a history of visited states.
